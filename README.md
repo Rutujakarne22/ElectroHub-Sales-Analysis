@@ -15,6 +15,6 @@ Conclusion:
 
 The ElectroHub Sales Dashboard simplifies reporting and enhances data visibility, enabling stakeholders to identify opportunities for growth and improvement. By focusing on high-performing products, optimizing underperformers, and leveraging regional trends, the dashboard demonstrates the value of data visualization in achieving business success.
 
-![Dashboard1](images/Dashboard1.png)  
+![Dashboard1](Images/Dashboard1.png)  
  
-![Dashboard2](images/Dashboard2.png)
+![Dashboard2](Images/Dashboard2.png)
